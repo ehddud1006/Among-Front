@@ -1,28 +1,28 @@
 {
   "files": {
-    "main.css": "/ehddud1006/Among-Front/static/css/main.b28bdfe0.css",
-    "main.js": "/ehddud1006/Among-Front/static/js/main.feee11fe.js",
-    "static/media/moza2.png": "/ehddud1006/Among-Front/static/media/moza2.526e7281a93a55cbfef4.png",
-    "static/media/moza1.png": "/ehddud1006/Among-Front/static/media/moza1.cf0c50c0bcdda26dd340.png",
-    "static/media/moza.png": "/ehddud1006/Among-Front/static/media/moza.dd1c9e9e02b928b0439c.png",
-    "static/media/ticketImg1.png": "/ehddud1006/Among-Front/static/media/ticketImg1.2431036e037fb03590ac.png",
-    "static/media/ticketImg5.png": "/ehddud1006/Among-Front/static/media/ticketImg5.4500d02b9c01b3ec4db4.png",
-    "static/media/ticketImg2.png": "/ehddud1006/Among-Front/static/media/ticketImg2.fb952ad78ef5efb37322.png",
-    "static/media/ticketImg3.png": "/ehddud1006/Among-Front/static/media/ticketImg3.ae28d1609f6bb197de5e.png",
-    "static/media/ticketImg4.png": "/ehddud1006/Among-Front/static/media/ticketImg4.48746719627ed9b65405.png",
-    "static/media/kdy.jpeg": "/ehddud1006/Among-Front/static/media/kdy.88d4c41901f95e7ea4c2.jpeg",
-    "static/media/communityImage.png": "/ehddud1006/Among-Front/static/media/communityImage.a3dd9a2c150b3a309f00.png",
-    "static/media/MetaMask_Fox.png": "/ehddud1006/Among-Front/static/media/MetaMask_Fox.f4c02c9f98edec22db5f.png",
-    "static/media/needImg.png": "/ehddud1006/Among-Front/static/media/needImg.96e4b739a3647e701021.png",
-    "static/media/right-arrow.png": "/ehddud1006/Among-Front/static/media/right-arrow.0a4a091589ac874ddd12.png",
-    "static/media/commentActive.png": "/ehddud1006/Among-Front/static/media/commentActive.562291e3970cfe0f7118.png",
-    "static/media/edit.png": "/ehddud1006/Among-Front/static/media/edit.5de789ef28d13ef0b6ba.png",
-    "index.html": "/ehddud1006/Among-Front/index.html",
-    "main.b28bdfe0.css.map": "/ehddud1006/Among-Front/static/css/main.b28bdfe0.css.map",
-    "main.feee11fe.js.map": "/ehddud1006/Among-Front/static/js/main.feee11fe.js.map"
+    "main.css": "/Among-Front/static/css/main.b28bdfe0.css",
+    "main.js": "/Among-Front/static/js/main.e9ab8168.js",
+    "static/media/moza2.png": "/Among-Front/static/media/moza2.526e7281a93a55cbfef4.png",
+    "static/media/moza1.png": "/Among-Front/static/media/moza1.cf0c50c0bcdda26dd340.png",
+    "static/media/moza.png": "/Among-Front/static/media/moza.dd1c9e9e02b928b0439c.png",
+    "static/media/ticketImg1.png": "/Among-Front/static/media/ticketImg1.2431036e037fb03590ac.png",
+    "static/media/ticketImg5.png": "/Among-Front/static/media/ticketImg5.4500d02b9c01b3ec4db4.png",
+    "static/media/ticketImg2.png": "/Among-Front/static/media/ticketImg2.fb952ad78ef5efb37322.png",
+    "static/media/ticketImg3.png": "/Among-Front/static/media/ticketImg3.ae28d1609f6bb197de5e.png",
+    "static/media/ticketImg4.png": "/Among-Front/static/media/ticketImg4.48746719627ed9b65405.png",
+    "static/media/kdy.jpeg": "/Among-Front/static/media/kdy.88d4c41901f95e7ea4c2.jpeg",
+    "static/media/communityImage.png": "/Among-Front/static/media/communityImage.a3dd9a2c150b3a309f00.png",
+    "static/media/MetaMask_Fox.png": "/Among-Front/static/media/MetaMask_Fox.f4c02c9f98edec22db5f.png",
+    "static/media/needImg.png": "/Among-Front/static/media/needImg.96e4b739a3647e701021.png",
+    "static/media/right-arrow.png": "/Among-Front/static/media/right-arrow.0a4a091589ac874ddd12.png",
+    "static/media/commentActive.png": "/Among-Front/static/media/commentActive.562291e3970cfe0f7118.png",
+    "static/media/edit.png": "/Among-Front/static/media/edit.5de789ef28d13ef0b6ba.png",
+    "index.html": "/Among-Front/index.html",
+    "main.b28bdfe0.css.map": "/Among-Front/static/css/main.b28bdfe0.css.map",
+    "main.e9ab8168.js.map": "/Among-Front/static/js/main.e9ab8168.js.map"
   },
   "entrypoints": [
     "static/css/main.b28bdfe0.css",
-    "static/js/main.feee11fe.js"
+    "static/js/main.e9ab8168.js"
   ]
 }
